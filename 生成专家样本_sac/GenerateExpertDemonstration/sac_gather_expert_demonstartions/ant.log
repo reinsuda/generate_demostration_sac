@@ -1,0 +1,9 @@
+nohup: ignoring input
+usage: main.py [-h] [--env_name ENV_NAME] [--actor_path ACTOR_PATH]
+               [--critic_path CRITIC_PATH] [--policy POLICY] [--eval EVAL]
+               [--gamma G] [--tau G] [--lr G] [--alpha G]
+               [--automatic_entropy_tuning G] [--seed N] [--batch_size N]
+               [--num_steps N] [--hidden_size N] [--updates_per_step N]
+               [--start_steps N] [--target_update_interval N]
+               [--replay_size N] [--cuda]
+main.py: error: unrecognized arguments: $
